@@ -3,19 +3,23 @@
 <h3 align="center">
   🌱 I’m currently learning ReactJS and Django rest framework
 </h3>
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=Max-Hitchings&theme=tokyonight"
-/>
-<a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
+<div align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=sorting_algorithm_visualizer&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/?username=Max-Hitchings&theme=tokyonight"
   />
-</a>
-<a href="https://github.com/Max-Hitchings/caesar-cipher-school-project">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=caesar-cipher-school-project&theme=tokyonight"
-  />
-</a>
+</div>
+<div align="center">
+  <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=sorting_algorithm_visualizer&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/Max-Hitchings/caesar-cipher-school-project">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=caesar-cipher-school-project&theme=tokyonight"
+    />
+  </a>
+</div>
