@@ -1,9 +1,11 @@
-<h1 align="center">Max Hitchings</h1>
-<h3 align="center">
+<h1 align="center" style="font: 800 34px 'Segoe UI', Ubuntu, Sans-Serif">
+  Max Hitchings
+</h1>
+<h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
   🔭 I’m currently working on a blackjack web app with ReactJS, Django and
   ExpressJS
 </h3>
-<h3 align="center">
+<h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
   🌱 I’m currently learning ReactJS and Django rest framework
 </h3>
 <div align="center">
