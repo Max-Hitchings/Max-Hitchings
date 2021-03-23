@@ -3,7 +3,7 @@
 <h3 align="center">
   🌱 I’m currently learning ReactJS and Django rest framework
 </h3>
-<div align="center">
+<div align="center" style="margin-bottom: 5px">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/?username=Max-Hitchings&theme=tokyonight"
