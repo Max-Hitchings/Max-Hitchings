@@ -1,5 +1,8 @@
 <h1 align="center">Max Hitchings</h1>
-<h3 align="center">🔭 I’m currently working on a blackjack web app</h3>
+<h3 align="center">
+  🔭 I’m currently working on a blackjack web app with ReactJS, Django and
+  ExpressJS
+</h3>
 <h3 align="center">
   🌱 I’m currently learning ReactJS and Django rest framework
 </h3>
