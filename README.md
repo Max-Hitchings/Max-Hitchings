@@ -8,6 +8,14 @@
 <h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
   🌱 I’m currently learning ReactJS and Django rest framework
 </h3>
+<h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
+  📺 What i do when i am not coding:
+  <a
+    href="https://github.com/Max-Hitchings/Max-Hitchings/blob/main/Netflix.csv"
+    target="_blank"
+    >Netflix</a
+  >
+</h3>
 <div align="center">
   <img
     align="center"
