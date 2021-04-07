@@ -36,3 +36,11 @@
     />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=Blackjack-Web-App&theme=tokyonight"
+    />
+  </a>
+</div>
