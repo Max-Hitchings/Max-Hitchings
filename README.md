@@ -2,8 +2,7 @@
   Max Hitchings
 </h1>
 <h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
-  🔭 I’m currently working on a blackjack web app with ReactJS, Django and
-  ExpressJS
+  🔭 I’m currently working on a blackjack web app with ReactJS and ExpressJS
 </h3>
 <h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
   🌱 I’m currently learning ReactJS, ExpressJS and Django rest framework
