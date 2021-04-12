@@ -6,7 +6,7 @@
   ExpressJS
 </h3>
 <h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
-  🌱 I’m currently learning ReactJS and Django rest framework
+  🌱 I’m currently learning ReactJS, ExpressJS and Django rest framework
 </h3>
 <h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
   📺 What i do when i am not coding:
