@@ -20,10 +20,12 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=GK%238652&color=7289DA"></img>
 </p>
 <div align="center">
-  <img
+  <a href="https://github.com/Max-Hitchings">
+    <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/?username=Max-Hitchings&theme=tokyonight"
-  />
+    />
+  </a>
 </div>
 <div align="center">
   <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
