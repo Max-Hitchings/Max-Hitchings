@@ -42,7 +42,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
+  <a href="https://github.com/Max-Hitchings/Blackjack-Web-App">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=Blackjack-Web-App&theme=tokyonight"
