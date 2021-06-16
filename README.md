@@ -12,6 +12,7 @@
   <a
     href="https://github.com/Max-Hitchings/Max-Hitchings/blob/main/Netflix.csv"
     target="_blank"
+     rel="noopener"
     >Netflix</a
   >
 </h3>
@@ -20,19 +21,21 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=GK%238652&color=7289DA"></img>
 </p>
 <div align="center">
-  <img
+  <a href="https://github.com/Max-Hitchings">
+    <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/?username=Max-Hitchings&theme=tokyonight"
-  />
+    />
+  </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
+  <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer" target="_blank" rel="noopener">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=sorting_algorithm_visualizer&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/Max-Hitchings/caesar-cipher-school-project">
+  <a href="https://github.com/Max-Hitchings/caesar-cipher-school-project" target="_blank" rel="noopener">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=caesar-cipher-school-project&theme=tokyonight"
@@ -40,7 +43,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Max-Hitchings/sorting_algorithm_visualizer">
+  <a href="https://github.com/Max-Hitchings/Blackjack-Web-App" target="_blank" rel="noopener">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Hitchings&repo=Blackjack-Web-App&theme=tokyonight"
