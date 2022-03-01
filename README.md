@@ -19,6 +19,7 @@
 <p align=center>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=max.hitchings@gmail.com&color=red"></img>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=GK%238652&color=7289DA"></img>
+  ![](https://komarev.com/ghpvc/?Max-Hitchings&color=blue&style=flat-square&label=0)
 </p>
 <div align="center">
   <a href="https://github.com/Max-Hitchings">
