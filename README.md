@@ -7,15 +7,6 @@
 <h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
   🌱 I’m currently learning ReactJS, ExpressJS and Django rest framework
 </h3>
-<h3 align="center" style="font: 800 18px 'Segoe UI', Ubuntu, Sans-Serif">
-  📺 What i do when i am not coding:
-  <a
-    href="https://github.com/Max-Hitchings/Max-Hitchings/blob/main/Netflix.csv"
-    target="_blank"
-     rel="noopener"
-    >Netflix</a
-  >
-</h3>
 <p align=center>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=max.hitchings@gmail.com&color=red"></img>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=GK%238652&color=7289DA"></img>
